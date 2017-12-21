@@ -100,3 +100,66 @@
 [submodule "ysd_plugin_errors"]
 	path = ysd_plugin_errors
 	url = https://github.com/yuraksisa/ysd_plugin_errors
+[submodule "ysd_plugin_frontend"]
+	path = ysd_plugin_frontend
+	url = https://github.com/yuraksisa/ysd_plugin_frontend
+[submodule "ysd_plugin_frontend_rentit_theme"]
+	path = ysd_plugin_frontend_rentit_theme
+	url = https://github.com/yuraksisa/ysd_plugin_frontend_rentit_theme
+[submodule "ysd_plugin_frontend_transfer_theme"]
+	path = ysd_plugin_frontend_transfer_theme
+	url = https://github.com/yuraksisa/ysd_plugin_frontend_transfer_theme
+[submodule "ysd_plugin_integration"]
+	path = ysd_plugin_integration
+	url = https://github.com/yuraksisa/ysd_plugin_integration
+[submodule "ysd_plugin_language"]
+	path = ysd_plugin_language
+	url = https://github.com/yuraksisa/ysd_plugin_language
+[submodule "ysd_plugin_media_gallery"]
+	path = ysd_plugin_media_gallery
+	url = https://github.com/yuraksisa/ysd_plugin_media_gallery
+[submodule "ysd_plugin_newsfeed"]
+	path = ysd_plugin_newsfeed
+	url = https://github.com/yuraksisa/ysd_plugin_newsfeed
+[submodule "ysd_plugin_order"]
+	path = ysd_plugin_order
+	url = https://github.com/yuraksisa/ysd_plugin_order
+[submodule "ysd_plugin_payment"]
+	path = ysd_plugin_payment
+	url = https://github.com/yuraksisa/ysd_plugin_payment
+[submodule "ysd_plugin_profile"]
+	path = ysd_plugin_profile
+	url = https://github.com/yuraksisa/ysd_plugin_profile
+[submodule "ysd_plugin_rates"]
+	path = ysd_plugin_rates
+	url = https://github.com/yuraksisa/ysd_plugin_rates
+[submodule "ysd_plugin_rca"]
+	path = ysd_plugin_rca
+	url = https://github.com/yuraksisa/ysd_plugin_rca
+[submodule "ysd_service_postal"]
+	path = ysd_service_postal
+	url = https://github.com/yuraksisa/ysd_service_postal
+[submodule "ysd_plugin_system"]
+	path = ysd_plugin_system
+	url = https://github.com/yuraksisa/ysd_plugin_system
+[submodule "ysd_plugin_translation"]
+	path = ysd_plugin_translation
+	url = https://github.com/yuraksisa/ysd_plugin_translation
+[submodule "ysd_plugin_tryton"]
+	path = ysd_plugin_tryton
+	url = https://github.com/yuraksisa/ysd_plugin_tryton
+[submodule "ysd_plugin_sinatra_service_postal"]
+	path = ysd_plugin_sinatra_service_postal
+	url = https://github.com/yuraksisa/ysd_plugin_sinatra_service_postal
+[submodule "ysd_service_template"]
+	path = ysd_service_template
+	url = https://github.com/yuraksisa/ysd_service_template
+[submodule "ysd_yito"]
+	path = ysd_yito
+	url = https://github.com/yuraksisa/ysd_yito
+[submodule "ysd_yito_core"]
+	path = ysd_yito_core
+	url = https://github.com/yuraksisa/ysd_yito_core
+[submodule "ysd_yito_js"]
+	path = ysd_yito_js
+	url = https://github.com/yuraksisa/ysd_yito_js
