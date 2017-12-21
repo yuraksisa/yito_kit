@@ -1,0 +1,9 @@
+[submodule "ysd_service_persistence"]
+	path = ysd_service_persistence
+	url = https://github.com/yuraksisa/ysd_service_persistence
+[submodule "ysd_core_plugins"]
+	path = ysd_core_plugins
+	url = https://github.com/yuraksisa/ysd_core_plugins
+[submodule "ysd_core_themes"]
+	path = ysd_core_themes
+	url = https://github.com/yuraksisa/ysd_core_themes
