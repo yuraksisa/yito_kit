@@ -7,3 +7,96 @@
 [submodule "ysd_core_themes"]
 	path = ysd_core_themes
 	url = https://github.com/yuraksisa/ysd_core_themes
+[submodule "ysd_data_analysis"]
+	path = ysd_data_analysis
+	url = https://github.com/yuraksisa/ysd_data_analysis
+[submodule "ysd_md_audit"]
+	path = ysd_md_audit
+	url = https://github.com/yuraksisa/ysd_md_audit
+[submodule "ysd_md_business_events"]
+	path = ysd_md_business_events
+	url = https://github.com/yuraksisa/ysd_md_business_events
+[submodule "ysd_md_calendar"]
+	path = ysd_md_calendar
+	url = https://github.com/yuraksisa/ysd_md_calendar
+[submodule "ysd_md_cms"]
+	path = ysd_md_cms
+	url = https://github.com/yuraksisa/ysd_md_cms
+[submodule "ysd_md_comparison"]
+	path = ysd_md_comparison
+	url = https://github.com/yuraksisa/ysd_md_comparison
+[submodule "ysd_md_fieldset"]
+	path = ysd_md_fieldset
+	url = https://github.com/yuraksisa/ysd_md_fieldset
+[submodule "ysd_md_integration"]
+	path = ysd_md_integration
+	url = https://github.com/yuraksisa/ysd_md_integration
+[submodule "ysd_md_logger"]
+	path = ysd_md_logger
+	url = https://github.com/yuraksisa/ysd_md_logger
+[submodule "ysd_md_payment"]
+	path = ysd_md_payment
+	url = https://github.com/yuraksisa/ysd_md_payment
+[submodule "ysd_md_photo_gallery"]
+	path = ysd_md_photo_gallery
+	url = https://github.com/yuraksisa/ysd_md_photo_gallery
+[submodule "ysd_md_profile"]
+	path = ysd_md_profile
+	url = https://github.com/yuraksisa/ysd_md_profile
+[submodule "ysd_md_rac"]
+	path = ysd_md_rac
+	url = https://github.com/yuraksisa/ysd_md_rac
+[submodule "ysd_md_rates"]
+	path = ysd_md_rates
+	url = https://github.com/yuraksisa/ysd_md_rates
+[submodule "ysd_md_booking"]
+	path = ysd_md_booking
+	url = https://github.com/yuraksisa/ysd_md_booking
+[submodule "ysd_md_configuration"]
+	path = ysd_md_configuration
+	url = https://github.com/yuraksisa/ysd_md_configuration
+[submodule "ysd_md_location"]
+	path = ysd_md_location
+	url = https://github.com/yuraksisa/ysd_md_location
+[submodule "ysd_md_search"]
+	path = ysd_md_search
+	url = https://github.com/yuraksisa/ysd_md_search
+[submodule "ysd_md_system"]
+	path = ysd_md_system
+	url = https://github.com/yuraksisa/ysd_md_system
+[submodule "ysd_md_translation"]
+	path = ysd_md_translation
+	url = https://github.com/yuraksisa/ysd_md_translation
+[submodule "ysd_md_yito"]
+	path = ysd_md_yito
+	url = https://github.com/yuraksisa/ysd_md_yito
+[submodule "ysd_plugin_aspects"]
+	path = ysd_plugin_aspects
+	url = https://github.com/yuraksisa/ysd_plugin_aspects
+[submodule "ysd_plugin_auth"]
+	path = ysd_plugin_auth
+	url = https://github.com/yuraksisa/ysd_plugin_auth
+[submodule "ysd_plugin_booking"]
+	path = ysd_plugin_booking
+	url = https://github.com/yuraksisa/ysd_plugin_booking
+[submodule "ysd_plugin_booking_frontend"]
+	path = ysd_plugin_booking_frontend
+	url = https://github.com/yuraksisa/ysd_plugin_booking_frontend
+[submodule "ysd_plugin_calendar"]
+	path = ysd_plugin_calendar
+	url = https://github.com/yuraksisa/ysd_plugin_calendar
+[submodule "ysd_plugin_cms"]
+	path = ysd_plugin_cms
+	url = https://github.com/yuraksisa/ysd_plugin_cms
+[submodule "ysd_plugin_configuration"]
+	path = ysd_plugin_configuration
+	url = https://github.com/yuraksisa/ysd_plugin_configuration
+[submodule "ysd_plugin_dashboard"]
+	path = ysd_plugin_dashboard
+	url = https://github.com/yuraksisa/ysd_plugin_dashboard
+[submodule "ysd_plugin_delayed_jobs"]
+	path = ysd_plugin_delayed_jobs
+	url = https://github.com/yuraksisa/ysd_plugin_delayed_jobs
+[submodule "ysd_plugin_errors"]
+	path = ysd_plugin_errors
+	url = https://github.com/yuraksisa/ysd_plugin_errors
