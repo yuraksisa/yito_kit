@@ -7,6 +7,7 @@
 [submodule "ysd_core_themes"]
 	path = ysd_core_themes
 	url = https://github.com/yuraksisa/ysd_core_themes
+        branch = develop
 [submodule "ysd_data_analysis"]
 	path = ysd_data_analysis
 	url = https://github.com/yuraksisa/ysd_data_analysis
@@ -40,6 +41,7 @@
 [submodule "ysd_md_photo_gallery"]
 	path = ysd_md_photo_gallery
 	url = https://github.com/yuraksisa/ysd_md_photo_gallery
+        branch = develop
 [submodule "ysd_md_profile"]
 	path = ysd_md_profile
 	url = https://github.com/yuraksisa/ysd_md_profile
@@ -52,6 +54,7 @@
 [submodule "ysd_md_booking"]
 	path = ysd_md_booking
 	url = https://github.com/yuraksisa/ysd_md_booking
+        branch = development
 [submodule "ysd_md_configuration"]
 	path = ysd_md_configuration
 	url = https://github.com/yuraksisa/ysd_md_configuration
@@ -79,6 +82,7 @@
 [submodule "ysd_plugin_booking"]
 	path = ysd_plugin_booking
 	url = https://github.com/yuraksisa/ysd_plugin_booking
+        branch = development
 [submodule "ysd_plugin_booking_frontend"]
 	path = ysd_plugin_booking_frontend
 	url = https://github.com/yuraksisa/ysd_plugin_booking_frontend
@@ -88,12 +92,15 @@
 [submodule "ysd_plugin_cms"]
 	path = ysd_plugin_cms
 	url = https://github.com/yuraksisa/ysd_plugin_cms
+        branch = develop
 [submodule "ysd_plugin_configuration"]
 	path = ysd_plugin_configuration
 	url = https://github.com/yuraksisa/ysd_plugin_configuration
+        branch = develop 
 [submodule "ysd_plugin_dashboard"]
 	path = ysd_plugin_dashboard
 	url = https://github.com/yuraksisa/ysd_plugin_dashboard
+        branch = develop
 [submodule "ysd_plugin_delayed_jobs"]
 	path = ysd_plugin_delayed_jobs
 	url = https://github.com/yuraksisa/ysd_plugin_delayed_jobs
@@ -118,6 +125,7 @@
 [submodule "ysd_plugin_media_gallery"]
 	path = ysd_plugin_media_gallery
 	url = https://github.com/yuraksisa/ysd_plugin_media_gallery
+        branch = develop
 [submodule "ysd_plugin_newsfeed"]
 	path = ysd_plugin_newsfeed
 	url = https://github.com/yuraksisa/ysd_plugin_newsfeed
@@ -160,6 +168,8 @@
 [submodule "ysd_yito_core"]
 	path = ysd_yito_core
 	url = https://github.com/yuraksisa/ysd_yito_core
+        branch = develop
 [submodule "ysd_yito_js"]
 	path = ysd_yito_js
 	url = https://github.com/yuraksisa/ysd_yito_js
+        branch = develop
